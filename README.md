@@ -1,0 +1,2 @@
+# MovieNet
+MovieNet is a social network for movie enthusiasts, containing a database of movies, actors/actresses, directors, etc., and a social network of movie enthusiasts. Users of MovieNet can search for movie and artists. They can also rate movies. They can further be friends with each other based on movie interests or other similarities. An online movie store can pay to join MovieNet and publish ads that are customized to each user based on her movie interest. 
